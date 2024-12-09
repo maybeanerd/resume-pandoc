@@ -8,7 +8,7 @@ left-column:
   - 'Email: [sebastian@diluz.io](mailto:sebastian@diluz.io)'
 right-column:
   - 'GitHub: [github.com/maybeanerd](https://github.com/maybeanerd)'
-  - 'Homepage: [diluz.io](https://diluz.io)'
+  - 'Website: [diluz.io](https://diluz.io)'
   - 'Last Updated: \today'
 ...
 
