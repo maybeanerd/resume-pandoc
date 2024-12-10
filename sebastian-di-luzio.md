@@ -100,7 +100,7 @@ Technical University of Munich
 MagiBot
 
  : A Discord bot that helps voice-chat focused servers build communities.
-   It is currently serving 1.000.000+ users in over 2500 guilds:
+   It is currently serving 1.000.000+ users in over 2500 servers:
    [MagiBot](https://github.com/maybeanerd/MagiBot)
 
 home-cluster
