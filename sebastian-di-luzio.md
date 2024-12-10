@@ -104,16 +104,17 @@ Technical University of Munich
 MagiBot
 
  : A Discord bot that helps voice-chat focused servers build communities.
-   It is currently serving 1.000.000+ users in over 2500 servers:
-   [MagiBot](https://github.com/maybeanerd/MagiBot)
+   It is currently serving 1.000.000+ users in over 2500 servers
+   ([repository](https://github.com/maybeanerd/MagiBot))
 
 home-cluster
 
  : Collection of helmcharts and configuration to define the infrastructure
-   of a self hosted kubernetes cluster running on four arm-based nodes:
-   [home-cluster](https://github.com/maybeanerd/home-cluster)
+   of a self hosted kubernetes cluster running on four arm-based nodes
+   ([repository](https://github.com/maybeanerd/home-cluster))
 
 api-trader-game
 
  : A self hostable game server to run a cooperative idle crafting and trading game which
-   federates with other game servers using the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol: [api-trader-game](https://github.com/maybeanerd/selfhosted-api-trader-game)
+   federates with other game servers using the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol
+   ([repository](https://github.com/maybeanerd/selfhosted-api-trader-game))
