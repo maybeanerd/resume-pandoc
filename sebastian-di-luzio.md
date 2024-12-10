@@ -26,14 +26,15 @@ Providing technical leadership is a role I flourish in, be it organizing initiat
 
 # Experience
 
-
 ## IU International University
 
 **April 2024 - present**; Technical Lead, Senior Software Engineer
 
 Technolgies used:
 
-: TypeScript, Node.js, Nest.js, Vue.js, Single-SPA, Tailwind, AWS, Docker, GitLab, PostgreSQL
+: 
+
+TypeScript, Node.js, Nest.js, Vue.js, Single-SPA, Tailwind, AWS, Docker, GitLab, PostgreSQL
 
 Overview:
 
@@ -54,7 +55,9 @@ Highlights:
 
 Technolgies used:
 
-: TypeScript, Node.js, Nest.js, Vue.js, Tailwind, AWS, Docker, GitLab, GraphQL, MongoDB, PostgreSQL
+: 
+
+TypeScript, Node.js, Nest.js, Vue.js, Tailwind, AWS, Docker, GitLab, GraphQL, MongoDB, PostgreSQL
 
 Overview:
 
