@@ -7,8 +7,8 @@ left-column:
   - 'Senior Software Engineer'
   - 'German (native), English (native)'
 right-column:
-  - 'GitHub: [github.com/maybeanerd](https://github.com/maybeanerd)'
   - 'Website: [diluz.io](https://diluz.io)'
+  - 'GitHub: [github.com/maybeanerd](https://github.com/maybeanerd)'
   - 'Email: [sebastian@diluz.io](mailto:sebastian@diluz.io)'
   - 'Last Updated: \today'
 ...
