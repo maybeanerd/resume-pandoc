@@ -6,6 +6,7 @@ keywords: typescript, javascript, vue, vuejs, nest, nestjs, express, node, nodej
 left-column:
   - 'Senior Software Engineer'
   - 'Email: [sebastian@diluz.io](mailto:sebastian@diluz.io)'
+  - 'German (native), English (native)'
 right-column:
   - 'GitHub: [github.com/maybeanerd](https://github.com/maybeanerd)'
   - 'Website: [diluz.io](https://diluz.io)'
@@ -113,9 +114,3 @@ api-trader-game
 
  : A self hostable game server to run a cooperative idle crafting and trading game which
    federates with other game servers using the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol: [api-trader-game](https://github.com/maybeanerd/selfhosted-api-trader-game)
-
-
-
-Languages
-
-: German (native), English (native)
