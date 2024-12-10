@@ -5,16 +5,17 @@ keywords: typescript, javascript, vue, vuejs, nest, nestjs, express, node, nodej
           senior software engineer, senior web developer
 left-column:
   - 'Senior Software Engineer'
-  - 'Email: [sebastian@diluz.io](mailto:sebastian@diluz.io)'
+  - 'German (native), English (native)'
 right-column:
+  - 'Website: [diluz.io](https://diluz.io)'
   - 'GitHub: [github.com/maybeanerd](https://github.com/maybeanerd)'
-  - 'Homepage: [diluz.io](https://diluz.io)'
+  - 'Email: [sebastian@diluz.io](mailto:sebastian@diluz.io)'
   - 'Last Updated: \today'
 ...
 
 # Summary
 
-I'm a Senior Software Engineer focused on full stack web development all around TypeScript.
+I am a Senior Software Engineer focused on full stack web development all around TypeScript.
 
 I like focusing on developer experience and shared solutions to enable other developers, leveraging shared libraries, systems like CI/CD or creating first party tooling within the company.
 
@@ -25,18 +26,19 @@ Providing technical leadership is a role I flourish in, be it organizing initiat
 
 # Experience
 
-
 ## IU International University
 
 **April 2024 - present**; Technical Lead, Senior Software Engineer
 
 Technolgies used:
 
-: TypeScript, Node.js, Nest.js, Vue.js, Single-SPA, Tailwind, AWS, Docker, GitLab, PostgreSQL
+: 
+
+TypeScript, Node.js, Nest.js, Vue.js, Single-SPA, Tailwind, AWS, Docker, GitLab, PostgreSQL
 
 Overview:
 
-:  Building and maintaining the foundation of the platform for students. Providing core services and utilities as well as a platform for feature teams to build upon, enabling multiple cross department initiatives to bring a new user experience to over 150K students.
+:  Building and maintaining the foundation of the platform for students. Providing core services and utilities as well as a platform for domain teams to build upon, enabling multiple cross department initiatives to bring a new user experience to over 150K students.
 
 Highlights:
 
@@ -53,7 +55,9 @@ Highlights:
 
 Technolgies used:
 
-: TypeScript, Node.js, Nest.js, Vue.js, Tailwind, AWS, Docker, GitLab, GraphQL, MongoDB, PostgreSQL
+: 
+
+TypeScript, Node.js, Nest.js, Vue.js, Tailwind, AWS, Docker, GitLab, GraphQL, MongoDB, PostgreSQL
 
 Overview:
 
@@ -100,22 +104,17 @@ Technical University of Munich
 MagiBot
 
  : A Discord bot that helps voice-chat focused servers build communities.
-   It is currently serving 1.000.000+ users in over 2500 guilds:
-   [MagiBot](https://github.com/maybeanerd/MagiBot)
+   It is currently serving 1.000.000+ users in over 2500 servers
+   ([repository](https://github.com/maybeanerd/MagiBot))
 
 home-cluster
 
  : Collection of helmcharts and configuration to define the infrastructure
-   of a self hosted kubernetes cluster running on four arm-based nodes:
-   [home-cluster](https://github.com/maybeanerd/home-cluster)
+   of a self hosted kubernetes cluster running on four arm-based nodes
+   ([repository](https://github.com/maybeanerd/home-cluster))
 
 api-trader-game
 
  : A self hostable game server to run a cooperative idle crafting and trading game which
-   federates with other game servers using the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol: [api-trader-game](https://github.com/maybeanerd/selfhosted-api-trader-game)
-
-
-
-Languages
-
-: German (native), English (native)
+   federates with other game servers using the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol
+   ([repository](https://github.com/maybeanerd/selfhosted-api-trader-game))
