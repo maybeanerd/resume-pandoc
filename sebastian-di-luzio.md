@@ -5,8 +5,8 @@ keywords: typescript, javascript, vue, vuejs, nest, nestjs, express, node, nodej
           senior software engineer, senior web developer
 left-column:
   - 'Senior Software Engineer'
-  - 'Email: [sebastian@diluz.io](mailto:sebastian@diluz.io)'
   - 'German (native), English (native)'
+  - 'Email: [sebastian@diluz.io](mailto:sebastian@diluz.io)'
 right-column:
   - 'GitHub: [github.com/maybeanerd](https://github.com/maybeanerd)'
   - 'Website: [diluz.io](https://diluz.io)'
