@@ -14,7 +14,7 @@ right-column:
 
 # Summary
 
-I'm a Senior Software Engineer focused on full stack web development all around TypeScript.
+I am a Senior Software Engineer focused on full stack web development all around TypeScript.
 
 I like focusing on developer experience and shared solutions to enable other developers, leveraging shared libraries, systems like CI/CD or creating first party tooling within the company.
 
@@ -36,7 +36,7 @@ Technolgies used:
 
 Overview:
 
-:  Building and maintaining the foundation of the platform for students. Providing core services and utilities as well as a platform for feature teams to build upon, enabling multiple cross department initiatives to bring a new user experience to over 150K students.
+:  Building and maintaining the foundation of the platform for students. Providing core services and utilities as well as a platform for domain teams to build upon, enabling multiple cross department initiatives to bring a new user experience to over 150K students.
 
 Highlights:
 
